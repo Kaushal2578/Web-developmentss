@@ -1,0 +1,35 @@
+<style>
+        img {
+    max-width: 400px; 
+    max-height: 200px; 
+}
+
+    text-align: center;
+    .calculator {
+        max-width: 400px;
+        margin: 0 auto;
+        padding: 20px;
+        background-color:white;
+    }
+    
+    h1 {
+        margin-bottom: 20px;
+    }
+    
+    label, input, button {
+        margin-bottom: 10px;
+        display: block;
+    }
+    
+    input, button {
+        width: 100%;
+        padding: 10px;
+    }
+    
+    button {
+        background-color: blue;
+        color: white;
+        border: none;
+        cursor: pointer;
+    }
+    </style>
